@@ -140,7 +140,8 @@ header span.ribbon-inner {
   border: 8px solid #7c334f;
   padding: 6px;
   z-index: 1;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header span.left-tail, header span.right-tail {
